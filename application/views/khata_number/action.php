@@ -1,0 +1,2 @@
+<button type="button" class="btn btn-sm btn-nic-blue" onclick="KhataNumber.listview.showLandsDetails($(this),'{{khata_number}}','{{village}}', VALUE_ONE);"
+        style="padding: 2px 7px;"><i class="fas fa-eye"></i>&nbsp; Show Lands</button>

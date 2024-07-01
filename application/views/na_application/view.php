@@ -90,7 +90,7 @@
                         </a>
                         {{/if}}
                     </td>
-                </tr>s
+                </tr>
                 <tr>
                     <td class="f-w-b text-center v-a-m">2. (b)</td>
                     <td class="v-a-m">
@@ -140,14 +140,14 @@
     </div>
     <div class="f-w-b f-s-16px">Land Details</div>
     <div id="land_details_container_for_na_view"></div>
-    <div style="text-align: justify; text-justify: inter-word;">
+    <!-- <div style="text-align: justify; text-justify: inter-word;">
         <div class="checkbox" style="position: relative; display: block;">
             <label class="cursor-pointer">
                 <input type="checkbox" id="declaration_for_na_view"> 
                 I, hereby accept the declaration.
             </label>
         </div>
-    </div>
+    </div> -->
 </div>
 <div class="card-footer text-right">
     <button type="button" class="btn btn-sm btn-danger" onclick="Swal.close();">Close</button>

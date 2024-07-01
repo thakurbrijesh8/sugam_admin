@@ -1,7 +1,7 @@
 <div class="card">
     <div class="card-body">
         <div class="table-responsive">
-            <table id="na_application_datatable" class="table table-bordered table-hover">
+            <table id="na_application_datatable" class="table table-bordered table-hover vat-top">
                 <thead>
                     <tr class="bg-light-gray">
                         <th class="text-center" style="width: 30px;">No.</th>
